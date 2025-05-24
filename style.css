@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+}
+.main {
+  margin: 5vh 55vh;
+  border: 3px outset #909ef5;
+  padding: 1vh;
+}
+.navlinks {
+  background-color: #161a2e;
+  border: solid black;
+}
+.navlinks a {
+  color: #a2aefc;
+}
+          
